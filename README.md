@@ -1,4 +1,4 @@
-<img src = images/'001.png' width=300 height = 200> </img>
+<img src = 'images/001.png' width=300 height = 200> </img>
 
 ![header](https://capsule-render.vercel.app/api?
 type=wave&
