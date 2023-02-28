@@ -1,9 +1,10 @@
-<img src='images/diary.png' width=300 height=200> </img>
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)<br>
+---
+[**#나의 노션**:smirk:](https://traveling-exception-960.notion.site/7123658d21c84f7bbf29d7f74b0ca0e1?v=06c3319bdc7a43e9b43fed47cb8288ea)<br>
+---
+<br>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JayMon0327)](https://github.com/JayMon0327)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayMon0327)](https://github.com/JayMon0327/github-readme-stats)
-
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JayMon0327&show_icons=true&theme=radical)](https://github.com/JayMon0327)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayMon0327&layout=compact)](https://github.com/JayMon0327/github-readme-stats)
 
 
@@ -14,33 +15,9 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-
-
-
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
-
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+<img src='images/diary.png' width=300 height=200> </img>
+<!--이미지는 찾아보기-->
 ---
 
-**두껍게** <br> 
-*이탤릭* <br>
-~~스트라이크~~ <br>
 
-* 1번
-* 2번
-- 1번
-- 2번
 
-[네이버](https://naver.com)
-```
-printf("안녕하세요?");
-include ~~~~
-```
-:smirk: <br>
-:joy:
-:rage:
