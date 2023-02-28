@@ -1,16 +1,33 @@
+![header](https://capsule-render.vercel.app/api?
+type=wave&
+color=auto&
+height=300&
+section=header&
+text=깃허브%20특강&
+fontSize=90)
+
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
 
-<!--
-**JayMon0327/JayMon0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+**두껍게** <br>
+*이탤릭* <br>
+~~스트라이크~~ <br>
 
-Here are some ideas to get you started:
+* 1번
+* 2번
+- 1번
+- 2번
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[네이버](https://www.naver.com)
+```
+printf("안녕하세요?")
+include ~~~~~~~
+
+```
+:smirk
+:joy
+:rage
