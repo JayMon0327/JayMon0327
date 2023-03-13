@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)<br>
 ---
-[**#MY NOTION**:smirk:]([https://www.notion.so/jaymon/7123658d21c84f7bbf29d7f74b0ca0e1?v=06c3319bdc7a43e9b43fed47cb8288ea&pvs=4](https://jaymon.notion.site/5d627e64dba34e4b8273d883703c579a))<br>
+[**#MY NOTION**:smirk:][https://www.notion.so/jaymon/7123658d21c84f7bbf29d7f74b0ca0e1?v=06c3319bdc7a43e9b43fed47cb8288ea&pvs=4](https://jaymon.notion.site/5d627e64dba34e4b8273d883703c579a))<br>
 ---
 <br>
 
